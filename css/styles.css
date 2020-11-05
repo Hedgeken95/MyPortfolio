@@ -20,6 +20,10 @@ header {
   background-color: skyblue;
 }
 
+.icon img {
+  border-radius: 50%;
+}
+
 .info {
   background-color: tomato;
   margin-left: 32px;
