@@ -49,3 +49,7 @@ header {
   list-style-type: none;
   display: flex;
 }
+
+.info ul li {
+  margin-right: 8px;
+}
